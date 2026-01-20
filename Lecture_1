@@ -1,0 +1,198 @@
+<!-- Lecture : 1.  Intro
+
+Hey Everyone :-)
+
+Feedback form - 
+
+https://docs.google.com/forms/d/18w-CsJ9tyBpefLIDlutmqY_7x3-zLJ7RA8XCXR8bCnE/edit
+
+=====================================================================================
+
+Basic  Competitive programming  Module FAQs
+
+ 1.  Lecture  Timings -  As per lecture timing (2 Lectures per Week).
+	
+ 2.  Language taught   -  C
+
+ 3.  Any prerequisites -   None. I will start from scratch.
+
+ 4.  Goal of this module  - To make you comfortable with programming fundamentals using C.
+
+ 5.  Do we get notes - Notes will be provided with every class.
+
+	6. Do  we get assignments - Yes assignment will be given in every class.
+
+
+=====================================================================================
+What you will learn in this module?
+
+	1. Programming Fundamentals 
+
+  2.   Control Statements - if else
+
+  3.   Control Statements - Loops (While, For)
+
+  4.   Pattern Problems
+
+  5.   Functions
+
+  6. Arrays
+
+  7.   Strings
+
+ 8.  Exceptional handling
+
+9.   File  handling
+
+10.  So on …
+
+
+
+
+
+=====================================================================================
+Instructor 
+
+Suyash Chaudhary
+
+Product Engineer and Instructor @Coding Blocks
+
+
+Technical trainer at GLA from past 2 years
+
+
+=====================================================================================
+Puzzle | (3 Bulbs and 3 Switches)
+
+There is a room with a door (closed) and three light bulbs inside the room. Outside the room, there are three switches, connected to the bulbs. You may manipulate the switches as you wish, but once you open the door you can’t change them. All bulbs are in working condition and you can open the door only once. Identify each switch with respect to its bulb.
+
+
+
+=====================================================================================
+
+
+Puzzle - Apples & Oranges
+
+
+ You are blindfolded and presented with three baskets:
+
+	1. The first basket has a label that says "Apples."
+	2. The second basket has a label that says "Oranges."
+	3. The third basket has a label that says "Apples and Oranges."
+
+
+You are told that all the labels are incorrect.
+
+To figure out which basket has what, you are allowed to pick one fruit from one of the baskets.
+Which basket do you choose to pick from, and how can you determine the correct labelling of all three baskets?
+
+
+
+
+=====================================================================================
+
+
+
+Why do we need Programming Language ?
+
+
+
+
+What is Program ?
+
+A set of instructions that you give to a computer so that it will do a particular task.
+
+Language
+
+The System of Communication in speech and writing that is used by people of a particular country.
+
+But to communicate with the computer we use different languages such as C , C++, Java, Python, JavaScript and many more.
+
+Computer only understand 0 and 1 (Binary Numbers) to communicate.
+
+
+=====================================================================================
+
+What do you understand by programming language?
+
+A programming language is a set of instructions written by a programmer to deliver instructions to the computer to perform 
+
+and accomplish a task.
+
+
+
+=====================================================================================
+High Level language
+
+A high-level language (HLL) is a programming language such as C or Python, that allows a programmer to develop programmes 
+
+that are independent of the type of machine they are running on.
+
+Ex - C, C++,Python
+
+
+
+=====================================================================================
+Low Level language
+
+Low-level languages are programming languages that provide little or no abstraction from a computer's instruction set 
+
+architecture. They are closer to machine code and are often used for system programming, hardware manipulation, and 
+
+performance-critical tasks.
+
+Ex - Machine Language, Assembly Language.
+
+
+
+=====================================================================================
+Interpreted Programming language
+
+An Interpreted language executes its statements line by line. 
+
+Languages such as Python, JavaScript, R, PHP, and Ruby are prime examples of Interpreted languages.
+
+Programs written in an interpreted language runs directly from the source code, with no intermediary compilation step.
+
+Interpreted language follows one step to get from source code to execution.
+
+
+
+=====================================================================================
+Flow Chart 
+						
+
+
+(Source code is basic text file / English word file )
+
+Source Code →Interpreter →Read line to object →directly run on computer.
+
+.py →  PVM(Python Virtual M/C) (C++) → object code interact with computer
+
+
+=====================================================================================
+Complied Programming language
+
+ A compiled language is a programming language that is converted into machine code so that the processor can execute it.
+
+ Programs that are compiled into native machine code tend to be faster than interpreted code.
+
+Source Code →Compiler→Read file to convert into .exe file[0101]  which is directly understand by computer.
+
+Flow Chart 
+Source Code → Compiler → Read file to convert into .exe file[0101]  which is directly understand by computer.
+
+
+=====================================================================================
+Compilation and Runtime 
+
+Compilation is the process of translating source code written in a high-level programming language into a lower-level 
+
+language, such as machine code, that can be executed by a computer.
+
+Runtime is the final phase of the program lifecycle in which the machine executes the program's code.
+
+
+=====================================================================================
+
+ -->
