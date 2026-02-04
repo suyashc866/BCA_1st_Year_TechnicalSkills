@@ -32,15 +32,15 @@
 
 // C Program
 
-// #include <stdio.h>
-// int main() {
-//     float r, h, volume;
-//     printf("Enter radius and height: ");
-//     scanf("%f %f", &r, &h);
-// volume = 3.14 * r * r * h;
-// printf("Volume of cylinder = %.2f", volume);
-//     return 0;
-// }
+#include <stdio.h>
+int main() {
+    float r, h, volume;
+    printf("Enter radius and height: ");
+    scanf("%f %f", &r, &h);
+volume = 3.14 * r * r * h;
+printf("Volume of cylinder = %.2f", volume);
+    return 0;
+}
 
 // =======================================================================================================
 
